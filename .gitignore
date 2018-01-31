@@ -5,5 +5,7 @@ app/Database/internaldataB.bin
 app/Database/tagl.bin_autobck
 app/Database/taglex.bin_autobck
 app/Web/Dump/*
-
+app/Config/*.gic
+app/Config/*.isc
+app/Web/*.gic
 
