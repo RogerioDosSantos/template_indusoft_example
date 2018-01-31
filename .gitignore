@@ -1,0 +1,9 @@
+
+app/$$scr$$.sg
+app/Database/dbversio.bin
+app/Database/internaldataB.bin
+app/Database/tagl.bin_autobck
+app/Database/taglex.bin_autobck
+app/Web/Dump/*
+
+
