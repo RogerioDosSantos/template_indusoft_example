@@ -8,4 +8,4 @@ app/Web/Dump/*
 app/Config/*.gic
 app/Config/*.isc
 app/Web/*.gic
-
+app/BreakPoints.txt
